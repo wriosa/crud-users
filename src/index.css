@@ -60,7 +60,7 @@ h1 {
 }
 
 .input-name {
-    width: 87%;
+    width: 84%;
 }
 
 .input-last {
@@ -68,7 +68,7 @@ h1 {
 }
 
 .input-all {
-    width: 94%;
+    width: 92%;
 }
 
 .post-form form button {
@@ -146,6 +146,10 @@ h1 {
     .user-wrapper>* {
         padding: 2em;
     }
-
-
+    .input-name {
+        width: 87%;
+    }
+    .input-all {
+        width: 94%;
+    }
 }
